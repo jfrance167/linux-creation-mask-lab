@@ -1,0 +1,17 @@
+[
+  {
+    "scenario": "absent_bit",
+    "exit": 0,
+    "expected_exit": 0
+  },
+  {
+    "scenario": "zero",
+    "exit": 0,
+    "expected_exit": 0
+  },
+  {
+    "scenario": "unknown_acl",
+    "exit": 2,
+    "expected_exit": 2
+  }
+]

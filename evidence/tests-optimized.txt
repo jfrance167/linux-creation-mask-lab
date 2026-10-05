@@ -1,0 +1,27 @@
+test_demo (test_cli.CliTests.test_demo) ... ok
+test_exit_outcomes (test_cli.CliTests.test_exit_outcomes) ... ok
+test_failed_read_write_flush_and_short_write (test_cli.CliTests.test_failed_read_write_flush_and_short_write) ... ok
+test_input_read_is_bounded (test_cli.CliTests.test_input_read_is_bounded) ... ok
+test_output_limit_is_incomplete_exit_even_in_demo (test_cli.CliTests.test_output_limit_is_incomplete_exit_even_in_demo) ... ok
+test_unsupported_and_failed_demo_exits (test_cli.CliTests.test_unsupported_and_failed_demo_exits) ... ok
+test_all_common_records_validate_before_exclusions (test_core.CoreTests.test_all_common_records_validate_before_exclusions) ... ok
+test_fixed_oracles (test_core.CoreTests.test_fixed_oracles) ... ok
+test_high_operands_are_unsupported (test_core.CoreTests.test_high_operands_are_unsupported) ... ok
+test_independent_bit_set_properties (test_core.CoreTests.test_independent_bit_set_properties) ... ok
+test_internal_output_boundary_and_escaping (test_core.CoreTests.test_internal_output_boundary_and_escaping) ... ok
+test_json_boundaries (test_core.CoreTests.test_json_boundaries) ... ok
+test_no_coercion_subclasses_or_custom_keys (test_core.CoreTests.test_no_coercion_subclasses_or_custom_keys) ... ok
+test_no_host_capabilities (test_core.CoreTests.test_no_host_capabilities) ... ok
+test_no_mutation_json_equivalence_and_fixed_claims (test_core.CoreTests.test_no_mutation_json_equivalence_and_fixed_claims) ... ok
+test_no_partial_results_for_unsupported_batch (test_core.CoreTests.test_no_partial_results_for_unsupported_batch) ... ok
+test_no_requested_intersection_regression (test_core.CoreTests.test_no_requested_intersection_regression) ... ok
+test_required_context_and_all_known_exclusions (test_core.CoreTests.test_required_context_and_all_known_exclusions) ... ok
+test_shapes_grammar_and_case_bounds (test_core.CoreTests.test_shapes_grammar_and_case_bounds) ... ok
+test_subtraction_regression (test_core.CoreTests.test_subtraction_regression) ... ok
+test_unsupported_reasons_are_stable (test_core.CoreTests.test_unsupported_reasons_are_stable) ... ok
+test_zero_is_complete (test_core.CoreTests.test_zero_is_complete) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.123s
+
+OK
